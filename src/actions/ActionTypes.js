@@ -1,0 +1,4 @@
+export const CHATTER_IMG = 'CHATTER_IMG'
+export const CHECK_CHAT_USER = 'CHECK_CHAT_USER'
+export const CHECK_EXSTANCE = 'CHECK_EXSTANCE'
+export const CHAT_MESSAGES = 'CHAT_MESSAGES'
